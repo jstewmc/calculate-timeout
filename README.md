@@ -58,6 +58,11 @@ That's it!
 
 ## Version
 
-### 0.1.0, August 16, 2016
+### 1.0.0, August 13, 2016
+
+* Major release
+* Update `composer.json`
+
+### 0.1.0, August 13, 2016
 
 * Initial release
