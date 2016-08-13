@@ -11,12 +11,12 @@
 	],
 	"require": {
 		"php": "^7.0",
-		"jstewmc/piecewise-fx": "^0.1"
+		"jstewmc/piecewise-fx": "^1.0"
 	},
 	"require-dev": {
-		"jstewmc/fx": "^0.3",
-		"jstewmc/interval": "^0.1",
-		"jstewmc/test-case": "^0.1"
+		"jstewmc/fx": "^1.0",
+		"jstewmc/interval": "^1.0",
+		"jstewmc/test-case": "^1.0"
 	},
 	"autoload": {
 		"psr-4": {
