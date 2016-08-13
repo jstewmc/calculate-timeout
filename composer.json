@@ -1,0 +1,26 @@
+{
+	"name": "jstewmc/calculate-timeout",
+	"description": "Calculate a timeout",
+	"keywords": ["php", "jstewmc", "calculate", "timeout"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Jack Clayton",
+			"email": "clayjs0@gmail.com"	
+		}
+	],
+	"require": {
+		"php": "^7.0",
+		"jstewmc/piecewise-fx": "^0.1"
+	},
+	"require-dev": {
+		"jstewmc/fx": "^0.3",
+		"jstewmc/interval": "^0.1",
+		"jstewmc/test-case": "^0.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"Jstewmc\\CalculateTimeout\\": "src/"
+		}
+	}
+}
